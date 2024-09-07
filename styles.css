@@ -196,7 +196,7 @@ footer {
     }
 
     button {
-        padding: 0.6rem 1rem; /* Espaçamento interno do botão em telas pequenas */
+        padding: 1rem 1rem; /* Espaçamento interno do botão em telas pequenas */
         font-size: 0.9rem; /* Tamanho da fonte do botão em telas pequenas */
     }
 
