@@ -1,5 +1,4 @@
-## **README.md: Uma Aventura Pré-Histórica em JavaScript!- Imersão Dev com Google Gemini**
-
+## **README.md: Uma Aventura Pré-Histórica em JavaScript!- Imersão Dev com Google Gemini** link: https://imers-o-dev-com-google-gemini.vercel.app/
 ### **O que é esse projeto?**
 
 Prepare-se para uma viagem no tempo! Essa aplicação web te permite explorar o mundo dos dinossauros de forma interativa. Digite o nome de um dinossauro e descubra informações fascinantes sobre ele, como período em que viveu, alimentação e onde seus fósseis foram encontrados. 
